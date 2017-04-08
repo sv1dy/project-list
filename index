@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>projects</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<h1>我的项目</h1>
+		<p>简介</p>
+	</header>
+	<div class="content">
+		<ul>
+			<li><a href="#">项目一</a></li>
+			<li><a href="#">项目二</a></li>
+			<li><a href="#">项目三</a></li>
+			<li><a href="#">项目四</a></li>
+			<li><a href="#">项目五</a></li>
+		</ul>
+		<img src="http://7xpvnv.com2.z0.glb.qiniucdn.com/65d4aba2-a097-4b24-aaa0-ebbaf7eedab2" alt="photo">
+		<ul>
+			<li><a href="#">查看源码</a></li>
+			<li><a href="#">使用说明</a></li>
+		</ul>
+	</div>
+	<div class="footer">
+		<p>作者：</p>
+	</div>
+	</div>
+</body>
+</html>
